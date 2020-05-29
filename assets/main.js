@@ -24,11 +24,13 @@ window.onload = function carregar() {
     //  Função Map que desenha as letras
         letras.map(function (posicao_y, index) {
     //	Texto
-        var texto = String.fromCharCode(48 + Math.random() * 33);
-        var posicao_x = index * 10;
+        // var texto = String.fromCharCode(48 + Math.random() * 33);
+        var texto = String.fromCharCode(51);
+        var posicao_x = index * 20;
         neo.getContext("2d").fillText(texto, posicao_x, posicao_y);
+        neo.getContext("2d").font = '33px Arial';
     //	Array index de descreve o efeito matrix
-        letras[index] = posicao_y > 758 + Math.random() * 1e4 ? 0 : posicao_y + 10;
+        letras[index] = posicao_y > 758 + Math.random() * 1e4 ? 0 : posicao_y + 30;
     //
         });
       }
