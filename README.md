@@ -59,18 +59,4 @@ Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/efeito-matrix/blob/master/LICENSE) para obter detalhes.
 
-## Agradecimentos
 
-Meus sinceros agradecimentos:
-
-* A Deus.
-* Contribuintes do projeto.
-* Todos que visitam o projeto e deixa uma estrela como reconhecimento.
-* Trilogia _Matrix_ com o fodástico _Keanu Reeves_.
-* Ao _[Sylvain Saurel](https://play.google.com/store/apps/details?id=com.ssaurel.matrixeffect)_, sem o seu trabalho, não me inspiraria a realizaria esse projeto.
-
-## Siga-me
-
-* Instagram [@jeferson.lucas](https://instagram.com/jeferson.luckas/)
-* Twitter [@JefersonLuckas](https://twitter.com/JefersonLuckas)
-* LinkedIn [Jeferson Lucas](https://www.linkedin.com/in/jeferson-lucas)
