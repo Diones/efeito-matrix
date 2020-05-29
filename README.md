@@ -47,7 +47,7 @@ git clone https://github.com/JefersonLucas/efeito-matrix.git
 
 Você também pode [baixar](https://github.com/JefersonLucas/efeito-matrix/archive/master.zip) o repositório em formato zip.
 
-## Contribuindo
+## Executar
 
 Executar: Abrir em qualquer navegador o arquivo index.html
 
